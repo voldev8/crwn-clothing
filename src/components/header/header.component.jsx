@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
+// This is a new special syntax when importing SVG in React.
 import { ReactComponent as Logo } from '../../assets/crown.svg';
 
 import './header.styles.scss';
